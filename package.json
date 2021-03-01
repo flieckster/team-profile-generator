@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.8.6",
+    "bootstrap": "^4.6.0",
+    "inquirer": "^8.0.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flieckster/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flieckster/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/flieckster/team-profile-generator#readme"
+}
